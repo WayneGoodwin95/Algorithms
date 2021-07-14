@@ -1,0 +1,24 @@
+set of steps for computer program to accomplish a task
+algorithms are what puts the science in computer science
+
+
+Examples
+- google hangouts audio vision compression algorithms
+- google maps route finding algorithm
+- pixar coloring by 3d lighting - rebndering algorithm
+- how to change solar panels 0- optimisation and scheduling algorithm
+
+these a re complex examples but are a set of steps
+
+game - user vs computer - minimax search algorithm
+
+what makes a good algorithm
+- solves the problem
+- efficiently
+
+sometimes algorithms to find perfect result will take a very long time.
+sometimes we need to have an algorithm which runs fast and gives a solid output which is not perfect. perfect does not always = best
+
+linear search - goes through each iterations one at a time
+binary search - halves the list - tests, halves the list, test, until you find answer
+
